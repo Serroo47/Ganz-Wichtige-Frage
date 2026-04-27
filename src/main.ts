@@ -111,7 +111,7 @@ function showYesScreen() {
   if (rafId !== null) cancelAnimationFrame(rafId);
   rafId = null;
 
-  tag.textContent = "from: X";
+  tag.textContent = "from: Serhat 💙";
 
   // ✅ Ganze Content-Area ersetzen (Karte verändert sich komplett)
   content.innerHTML = `
