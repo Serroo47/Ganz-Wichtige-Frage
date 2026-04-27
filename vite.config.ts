@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/Valentines-Day-Penguin/",
+  base: "/Ganz-Wichtige-Frage/",
 });
